@@ -1,4 +1,4 @@
-# GeneralProblemSolver
+# General Problem Solver
 
 Proyecto desarrollado para la Asignatura de Introducción a la Inteligencia Artificial.
 Consiste en la búsqueda de un método para la resolución de distintos problemas matemáticos planteados en exámenes de matemáticas y lógica
